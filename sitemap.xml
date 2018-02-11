@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://apptoline.ml/index.html</loc>
-    <lastmod>2018-02-11</lastmod>
+    <lastmod>2018-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://apptoline.ml/test.html</loc>
-    <lastmod>2018-02-11</lastmod>
+    <loc>http://apptoline.ml/offers.html</loc>
+    <lastmod>2018-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
