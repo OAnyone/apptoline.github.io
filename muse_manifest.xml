@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="apptoline.ml" resolutions="1x" timestamp="1518469588874">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="apptoline.ml" resolutions="1x" timestamp="1518475187779">
   <folder name="images">
     <file name="app-icon3.svg" crc="241989369" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -15,7 +15,7 @@
     <file name="index.css" crc="172327637" ref="index"/>
     <file name="offers.css" crc="4203973237" ref="offers"/>
     <file name="thanks.css" crc="211735691" ref="thanks"/>
-    <file name="wm.css" crc="262780114" ref="wm"/>
+    <file name="wm.css" crc="4280123813" ref="wm"/>
     <file name="invite.css" crc="321852953" ref="invite"/>
   </folder>
   <folder name="scripts">
@@ -34,6 +34,6 @@
   <file name="index.html" crc="4234356672" seo="true" mt="1518469584442" redirect="true"/>
   <file name="offers.html" crc="283770411" seo="true" mt="1518462572266" redirect="true"/>
   <file name="invite.html" crc="4003405248" seo="true" mt="1518463608587" redirect="true"/>
-  <file name="wm.html" crc="152048461" seo="true" mt="1518462572266" redirect="false"/>
+  <file name="wm.html" crc="338010517" seo="true" mt="1518475175889" redirect="true"/>
   <file name="thanks.html" crc="467535756" seo="true" mt="1518463423126" redirect="true"/>
 </manifest>
