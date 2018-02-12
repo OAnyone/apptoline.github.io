@@ -5,11 +5,38 @@
     <lastmod>2018-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://apptoline.ml/images/app-icon3.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://apptoline.ml/offers.html</loc>
     <lastmod>2018-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://apptoline.ml/invite.html</loc>
+    <lastmod>2018-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://apptoline.ml/images/icon.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://apptoline.ml/wm.html</loc>
+    <lastmod>2018-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://apptoline.ml/thanks.html</loc>
+    <lastmod>2018-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://apptoline.ml/images/icon.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
