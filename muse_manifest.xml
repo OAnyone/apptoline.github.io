@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="apptoline.ml" resolutions="1x" timestamp="1518469372468">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="apptoline.ml" resolutions="1x" timestamp="1518469588874">
   <folder name="images">
     <file name="app-icon3.svg" crc="241989369" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -31,7 +31,7 @@
     <file name="form_process.php" crc="3851993751" ref="thanks"/>
     <file name="form-u345.php" crc="3890901796" ref="thanks"/>
   </folder>
-  <file name="index.html" crc="3789624678" seo="true" mt="1518469366015" redirect="true"/>
+  <file name="index.html" crc="4234356672" seo="true" mt="1518469584442" redirect="true"/>
   <file name="offers.html" crc="283770411" seo="true" mt="1518462572266" redirect="true"/>
   <file name="invite.html" crc="4003405248" seo="true" mt="1518463608587" redirect="true"/>
   <file name="wm.html" crc="152048461" seo="true" mt="1518462572266" redirect="false"/>
