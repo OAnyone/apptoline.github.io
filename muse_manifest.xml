@@ -1,13 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="apptoline.ml" resolutions="1x" timestamp="1518475187779">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="apptoline.ml" resolutions="1x" timestamp="1518532365592">
   <folder name="images">
     <file name="app-icon3.svg" crc="241989369" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="app icon3_poster_.png" crc="3831386936" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:invite"/>
+    <file name="blank.gif" crc="4208392903" ref="index:invite:star"/>
     <file name="icon.jpg" crc="511653286" seo="true" ref="invite:thanks">
       <caption webpage="invite" alt=""/>
       <caption webpage="thanks" alt=""/>
+    </file>
+    <file name="artboard.png" crc="3846131724" seo="true" ref="star">
+      <caption webpage="star" alt=""/>
     </file>
   </folder>
   <folder name="css">
@@ -17,14 +20,15 @@
     <file name="thanks.css" crc="211735691" ref="thanks"/>
     <file name="wm.css" crc="4280123813" ref="wm"/>
     <file name="invite.css" crc="321852953" ref="invite"/>
+    <file name="star.css" crc="178854100" ref="star"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:offers:invite:wm:thanks"/>
-    <file name="museutils.js" crc="3803043152" ref="index:offers:invite:wm:thanks"/>
-    <file name="whatinput.js" crc="86476730" ref="index:offers:invite:wm:thanks"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:offers:invite:wm:thanks"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:offers:invite:wm:thanks"/>
-    <file name="require.js" crc="4157109226" ref="index:offers:invite:wm:thanks"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:offers:invite:wm:thanks:star"/>
+    <file name="museutils.js" crc="3803043152" ref="index:offers:invite:wm:thanks:star"/>
+    <file name="whatinput.js" crc="86476730" ref="index:offers:invite:wm:thanks:star"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:offers:invite:wm:thanks:star"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:offers:invite:wm:thanks:star"/>
+    <file name="require.js" crc="4157109226" ref="index:offers:invite:wm:thanks:star"/>
     <file name="webpro.js" crc="242022427" ref="thanks"/>
     <file name="form_check.php" crc="147359589" ref="thanks"/>
     <file name="form_throttle.php" crc="93986428" ref="thanks"/>
@@ -36,4 +40,5 @@
   <file name="invite.html" crc="4003405248" seo="true" mt="1518463608587" redirect="true"/>
   <file name="wm.html" crc="338010517" seo="true" mt="1518475175889" redirect="true"/>
   <file name="thanks.html" crc="467535756" seo="true" mt="1518463423126" redirect="true"/>
+  <file name="star.html" crc="6637437" seo="true" mt="1518532323444" redirect="true"/>
 </manifest>
