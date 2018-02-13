@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="apptoline.ml" resolutions="1x" timestamp="1518535301850">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="apptoline.ml" resolutions="1x" timestamp="1518536262312">
   <folder name="images">
     <file name="app-icon3.svg" crc="241989369" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -21,14 +21,15 @@
     <file name="wm.css" crc="4280123813" ref="wm"/>
     <file name="invite.css" crc="321852953" ref="invite"/>
     <file name="star.css" crc="178854100" ref="star"/>
+    <file name="getstar.css" crc="262780114" ref="getstar"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:offers:invite:wm:thanks:star"/>
-    <file name="museutils.js" crc="3803043152" ref="index:offers:invite:wm:thanks:star"/>
-    <file name="whatinput.js" crc="86476730" ref="index:offers:invite:wm:thanks:star"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:offers:invite:wm:thanks:star"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:offers:invite:wm:thanks:star"/>
-    <file name="require.js" crc="4157109226" ref="index:offers:invite:wm:thanks:star"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:offers:invite:wm:thanks:star:getstar"/>
+    <file name="museutils.js" crc="3803043152" ref="index:offers:invite:wm:thanks:star:getstar"/>
+    <file name="whatinput.js" crc="86476730" ref="index:offers:invite:wm:thanks:star:getstar"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:offers:invite:wm:thanks:star:getstar"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:offers:invite:wm:thanks:star:getstar"/>
+    <file name="require.js" crc="4157109226" ref="index:offers:invite:wm:thanks:star:getstar"/>
     <file name="webpro.js" crc="242022427" ref="thanks"/>
     <file name="form_check.php" crc="147359589" ref="thanks"/>
     <file name="form_throttle.php" crc="93986428" ref="thanks"/>
@@ -41,4 +42,5 @@
   <file name="wm.html" crc="338010517" seo="true" mt="1518475175889" redirect="true"/>
   <file name="thanks.html" crc="467535756" seo="true" mt="1518463423126" redirect="true"/>
   <file name="star.html" crc="482045024" seo="true" mt="1518535278137" redirect="true"/>
+  <file name="getstar.html" crc="21706068" seo="true" mt="1518536257497" redirect="false"/>
 </manifest>
